@@ -108,6 +108,14 @@
       <path value="$PROJECT_DIR$/comp_assignment_1/vendor/nunomaduro/collision" />
       <path value="$PROJECT_DIR$/comp_assignment_1/vendor/voku/portable-ascii" />
       <path value="$PROJECT_DIR$/comp_assignment_1/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/comp_assignment_1/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/comp_assignment_1/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/comp_assignment_1/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/comp_assignment_1/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/comp_assignment_1/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/comp_assignment_1/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/comp_assignment_1/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/comp_assignment_1/vendor/maatwebsite/excel" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />

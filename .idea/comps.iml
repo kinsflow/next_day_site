@@ -114,6 +114,14 @@
       <excludeFolder url="file://$MODULE_DIR$/comp_assignment_1/vendor/nunomaduro/collision" />
       <excludeFolder url="file://$MODULE_DIR$/comp_assignment_1/vendor/voku/portable-ascii" />
       <excludeFolder url="file://$MODULE_DIR$/comp_assignment_1/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/comp_assignment_1/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/comp_assignment_1/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/comp_assignment_1/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/comp_assignment_1/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/comp_assignment_1/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/comp_assignment_1/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/comp_assignment_1/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/comp_assignment_1/vendor/maatwebsite/excel" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
